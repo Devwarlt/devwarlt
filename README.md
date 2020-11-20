@@ -18,7 +18,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 [linkedin]: https://www.linkedin.com/in/n%C3%A1dio-dib-ab2996183/
 [whatsapp]: https://api.whatsapp.com/send?phone=5561991320885
 [gmail]: mailto:devwarlt@gmail.com
-[lattes-cv]: http://lattes.cnpq.br/5004116618429780
+[lattes-cv]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2437838Y7&tipo=completo&idiomaExibicao=1
 
 [discord-badge]: https://img.shields.io/badge/Devwarlt%238483-black?logo=discord&style=for-the-badge
 [linkedin-badge]: https://img.shields.io/badge/N%C3%A1dio%20Dib-purple?logo=linkedin&style=for-the-badge
