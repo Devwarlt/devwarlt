@@ -14,6 +14,22 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 
 [![Devwarlt's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwarlt&layout=compact&langs_count=10&custom_title=Devwarlt%27s+Most+Used+Languages)][main]
 
+## Jobs & Collabs
+
+### Current
+- Senior .NET Developer **@Arcadia Game Studio** (Denmark/2020)
+- Lead Backend Developer **@Imóvel Capital** Startup (Brazil/2020)
+- Junior Test Engineer [**@ABIN**](https://www.gov.br/abin/pt-br) (Brazil/2020)
+- Academic Researcher [**@UNB**](https://unb.br) and [**UniProjeção**](https://projecao.br) (Brazil/2020)
+- Lua/.NET Developer **@XLE-Love2D ECS framework** (open source, currently private) project (EU/2020)
+
+### Previous
+- Senior Backend .NET/Flex Developer [**@TK Games**](https://github.com/TK-Games) (EU/2020)
+- Backend .NET/Flex Developer **@Shot's Realm** project (USA/2019)
+- Backend .NET/Flex Developer **@UT Realms** project (USA/2019)
+- Backend .NET Developer [**@loe-core game engine**](https://github.com/Devwarlt/loe-core) (open source, but discontinued) project (USA/2018)
+- Indie Developer [**@LoESoft Games**](https://github.com/LoESoft-Games) (USA/2016-18)
+
 [main]: https://github.com/devwarlt
 [linkedin]: https://www.linkedin.com/in/n%C3%A1dio-dib-ab2996183/
 [whatsapp]: https://api.whatsapp.com/send?phone=5561991320885
