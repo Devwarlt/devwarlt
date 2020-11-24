@@ -31,6 +31,14 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 - Indie Developer [**@LoESoft Games**](https://github.com/LoESoft-Games) (USA/2016-18)
 - Junior Developer [**@PR**](https://www.gov.br/planalto/pt-br) (Brazil/2015)
 
+## IT Certifications
+- Scrum Foundations Professional (2020)
+- Kanban Foundations Professional (2020)
+- C#/.NET Developer Professional (2020)
+- C++ Fundamentals (2020)
+- CyberSec (CISCO): Introduction & Essentials (2020)
+- CyberSec (OAS): Antiterrorism & PenTest Essentials (2019)
+
 [main]: https://github.com/devwarlt
 [linkedin]: https://www.linkedin.com/in/n%C3%A1dio-dib-ab2996183/
 [whatsapp]: https://api.whatsapp.com/send?phone=5561991320885
