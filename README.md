@@ -18,7 +18,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 
 ### Current
 - Senior .NET Developer **@Arcadia Game Studio** (Denmark/2020)
-- Lead Backend Developer **@Imóvel Capital** Startup (Brazil/2020)
+- Lead Backend Developer **@Imóvel Capital** startup (Brazil/2020)
 - Junior Test Engineer [**@ABIN**](https://www.gov.br/abin/pt-br) (Brazil/2020)
 - Academic Researcher [**@UNB**](https://unb.br) and [**UniProjeção**](https://projecao.br) (Brazil/2020)
 - Lua/.NET Developer **@XLE-Love2D ECS framework** (open source, currently private) project (EU/2020)
