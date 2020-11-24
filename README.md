@@ -21,10 +21,10 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 - Lead Backend Developer **@Imóvel Capital** startup (Brazil/2020)
 - Junior Test Engineer [**@ABIN**](https://www.gov.br/abin/pt-br) (Brazil/2020)
 - Academic Researcher [**@UNB**](https://unb.br) and [**UniProjeção**](https://projecao.br) (Brazil/2020)
-- Lua/.NET Developer **@XLE-Love2D ECS framework** (open source, currently private) project (EU/2020)
+- Lua/.NET Developer **@XLE-Love2D ECS framework** (open source, currently private) project (FR/2020)
 
 ### Previous
-- Senior Backend .NET/Flex Developer [**@TK Games**](https://github.com/TK-Games) (EU/2020)
+- Senior Backend .NET/Flex Developer [**@TK Games**](https://github.com/TK-Games) (UK/2020)
 - Backend .NET/Flex Developer **@Shot's Realm** project (USA/2019)
 - Backend .NET/Flex Developer **@UT Realms** project (USA/2019)
 - Backend .NET Developer [**@loe-core game engine**](https://github.com/Devwarlt/loe-core) (open source, but discontinued) project (USA/2018)
