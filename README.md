@@ -32,12 +32,12 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 - Junior Developer [**@PR**](https://www.gov.br/planalto/pt-br) (Brazil/2015)
 
 ## IT Certifications
-- Scrum Foundations Professional (2020)
-- Kanban Foundations Professional (2020)
-- C#/.NET Developer Professional (2020)
-- C++ Fundamentals (2020)
-- CyberSec (CISCO): Introduction & Essentials (2020)
-- CyberSec (OAS): Antiterrorism & PenTest Essentials (2019)
+- Scrum Foundations Professional (USA/2020)
+- Kanban Foundations Professional (USA/2020)
+- C#/.NET Developer Professional (Brazil/2020)
+- C++ Fundamentals (USA/2020)
+- CyberSec (CISCO): Introduction & Essentials (Brazil/2020)
+- CyberSec (OAS): Antiterrorism & PenTest Essentials (USA/2019)
 
 [main]: https://github.com/devwarlt
 [linkedin]: https://www.linkedin.com/in/n%C3%A1dio-dib-ab2996183/
