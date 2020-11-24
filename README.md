@@ -14,7 +14,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 
 [![Devwarlt's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwarlt&layout=compact&langs_count=10&custom_title=Devwarlt%27s+Most+Used+Languages)][main]
 
-## Jobs & Collabs
+## Jobs & Project Collabs
 
 ### Current
 - Senior .NET Developer **@Arcadia Game Studio** (Denmark/2020)
