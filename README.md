@@ -34,6 +34,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 ## IT Certifications
 - Scrum Foundations Professional (USA/2020)
 - Kanban Foundations Professional (USA/2020)
+- CyberSec Foundations Professional (USA/2020)
 - C#/.NET Developer Professional (Brazil/2020)
 - C++: Fundamentals (USA/2020)
 - Python: Data Mining Essentials (USA/2020)
