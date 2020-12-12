@@ -10,9 +10,9 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 
 ## Stats
 
-[![Devwarlt's github stats](https://github-readme-stats.vercel.app/api?username=devwarlt&show_icons=true&theme=default&show_icons=true&count_private=true&include_all_commits=true)][main]
+[![Devwarlt's github stats](https://github-readme-stats.vercel.app/api?username=devwarlt&show_icons=true&theme=dark&show_icons=true&count_private=true&include_all_commits=true)][main]
 
-[![Devwarlt's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwarlt&layout=compact&langs_count=10&custom_title=Devwarlt%27s+Most+Used+Languages)][main]
+[![Devwarlt's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwarlt&layout=compact&langs_count=10&theme=dark&custom_title=Devwarlt%27s+Most+Used+Languages)][main]
 
 ## IT Jobs & Project Collabs
 
