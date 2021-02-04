@@ -18,11 +18,11 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 
 ### Current
 - Senior .NET Developer **SDR Framework** & **Project SDR** (Brazil/2021)
-- Lead Backend Developer **@Imóvel Capital** startup (Brazil/2020)
-- Junior Test Engineer [**@ABIN**](https://www.gov.br/abin/pt-br) (Brazil/2020)
-- Academic Researcher [**@UNB**](https://unb.br) and [**UniProjeção**](https://projecao.br) (Brazil/2020)
 
 ### Previous
+- Academic Researcher [**@UNB**](https://unb.br) and [**UniProjeção**](https://projecao.br) (Brazil/2020)
+- Junior Test Engineer [**@ABIN**](https://www.gov.br/abin/pt-br) (Brazil/2020)
+- Lead Backend Developer **@Imóvel Capital** startup (Brazil/2020)
 - Senior .NET Developer **@Arcadia Game Studio** (Denmark/2020)
 - Lua/.NET Developer **@XLE-Love2D ECS framework** (discontinued) project (FR/2020)
 - Senior Backend .NET/Flex Developer [**@TK Games**](https://github.com/TK-Games) (UK/2020)
