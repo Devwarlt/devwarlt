@@ -17,7 +17,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 ## IT Jobs & Project Collabs
 
 ### Current
-- Senior .NET Developer **SDR Framework** & **Project SDR** (Brazil/2021)
+- Senior .NET Developer **SDR Framework** & **Project SDR** (Brazil/2021) collab with [@Slendergo](https://github.com/Slendergo)
 
 ### Previous
 - Academic Researcher [**@UNB**](https://unb.br) and [**UniProjeção**](https://projecao.br) (Brazil/2020)
