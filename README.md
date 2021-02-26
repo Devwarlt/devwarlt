@@ -53,4 +53,4 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 [linkedin-badge]: https://img.shields.io/badge/N%C3%A1dio%20Dib-purple?logo=linkedin&style=for-the-badge
 [whatsapp-badge]: https://img.shields.io/badge/WhatsApp-009aae?logo=whatsapp&style=for-the-badge
 [gmail-badge]: https://img.shields.io/badge/Gmail-black?logo=gmail&style=for-the-badge
-[lattes-cv-badge]: https://img.shields.io/badge/CV%20Lattes-black?logo=read-the-docs&style=for-the-badge
+[lattes-cv-badge]: https://img.shields.io/badge/CV%20Lattes%20(Resume)-black?logo=read-the-docs&style=for-the-badge
