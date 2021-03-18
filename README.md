@@ -18,7 +18,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 
 ### Current
 - Senior .NET Developer **Project SDR** (Brazil/2021) collab with [@Slendergo](https://github.com/Slendergo)
-- UI/UX Design & Flex Developer [**@Valor**](https://valorserver.com) (USA/2021)
+- Senior Flex Developer [**@Valor**](https://valorserver.com) (USA/2021)
 - Plain Backend Python Developer [**@UNB**](https://unb.br) (Brazil/2021)
 
 ### Previous
