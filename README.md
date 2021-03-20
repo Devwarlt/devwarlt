@@ -19,17 +19,17 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 ### Current
 - Senior .NET Developer **Project SDR** (Brazil/2021) collab with [@Slendergo](https://github.com/Slendergo)
 - Full-stack Developer [**@Valor**](https://valorserver.com) (USA/2021)
-- Plain Backend Python Developer [**@UNB**](https://unb.br) (Brazil/2021)
+- Plain Back-end Python Developer [**@UNB**](https://unb.br) (Brazil/2021)
 
 ### Previous
 - Academic Researcher [**@UNB**](https://unb.br) and [**UniProjeção**](https://projecao.br) (Brazil/2020)
 - Junior Test Engineer [**@ABIN**](https://www.gov.br/abin/pt-br) (Brazil/2020)
-- Lead Backend Developer **@Imóvel Capital** startup (Brazil/2020)
+- Lead Back-end Developer **@Imóvel Capital** startup (Brazil/2020)
 - Senior .NET Developer [**@Arcadia Game Studio**](https://www.youtube.com/channel/UCCzT6_EUKAAksAYjc142kLg) (Denmark/2020)
 - Lua/.NET Developer [**@XLE-Love2D ECS framework**](https://github.com/bawdeveloppement/love2d-ecs) (discontinued) project (FR/2020)
-- Senior Backend .NET/Flex Developer [**@TK Games**](https://github.com/TK-Games) (UK/2020)
-- Backend .NET/Flex Developer [**@Shot's Realm**](https://www.shotsrealm.com) project (USA/2019)
-- Backend .NET/Flex Developer [**@UT Realms**](https://utrealmsreborn.github.io) project (USA/2019)
+- Senior Back-end .NET/Flex Developer [**@TK Games**](https://github.com/TK-Games) (UK/2020)
+- Full-stack Developer [**@Shot's Realm**](https://www.shotsrealm.com) project (USA/2019)
+- Full-stack Developer [**@UT Realms**](https://utrealmsreborn.github.io) project (USA/2019)
 - Backend .NET Developer [**@loe-core game engine**](https://github.com/Devwarlt/loe-core) (open source, but discontinued) project (USA/2018)
 - Indie Developer [**@LoESoft Games**](https://github.com/LoESoft-Games) (USA/2016-18)
 - Junior Developer [**@PR**](https://www.gov.br/planalto/pt-br) (Brazil/2015)
