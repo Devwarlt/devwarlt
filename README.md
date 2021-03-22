@@ -6,7 +6,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 > So, this is my secret that keeps pushing me every day :smirk:
 
 ## Contacts
-[![discord-badge]][main] [![linkedin-badge]][linkedin] [![whatsapp-badge]][whatsapp] [![gmail-badge]][gmail] [![academic-badge]][academic]
+[![discord-badge]][main] [![linkedin-badge]][linkedin] [![gmail-badge]][gmail] [![academic-badge]][academic]
 
 ## Stats
 
@@ -46,12 +46,10 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 
 [main]: https://github.com/devwarlt
 [linkedin]: https://www.linkedin.com/in/n%C3%A1dio-dib-ab2996183/
-[whatsapp]: https://api.whatsapp.com/send?phone=5561991320885
 [gmail]: mailto:devwarlt@gmail.com
 [academic]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2437838Y7&tipo=completo&idiomaExibicao=1
 
 [discord-badge]: https://img.shields.io/badge/Devwarlt%238483-black?logo=discord&style=for-the-badge
 [linkedin-badge]: https://img.shields.io/badge/N%C3%A1dio%20Dib-purple?logo=linkedin&style=for-the-badge
-[whatsapp-badge]: https://img.shields.io/badge/WhatsApp-009aae?logo=whatsapp&style=for-the-badge
 [gmail-badge]: https://img.shields.io/badge/Gmail-black?logo=gmail&style=for-the-badge
 [academic-badge]: https://img.shields.io/badge/Academic%20Resume-black?logo=read-the-docs&style=for-the-badge
