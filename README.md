@@ -17,7 +17,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 ## IT Jobs & Project Collabs
 
 ### Current
-- Senior .NET Developer **Project SDR** (Brazil/2021) collab with [@Slendergo](https://github.com/Slendergo)
+- Senior .NET Developer **@Project SDR** (Brazil/2021) collab with [@Slendergo](https://github.com/Slendergo)
 - Full-stack Developer [**@Valor**](https://valorserver.com) (USA/2021)
 - Plain Back-end Python Developer [**@UNB**](https://unb.br) (Brazil/2021)
 
