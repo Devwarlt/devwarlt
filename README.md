@@ -17,7 +17,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 ## IT Jobs & Project Collabs
 
 ### Current
-- Junior Java Developer [**@BB**](https://bb.com.br) (Brazil/2021)
+- Junior Solution Consultant [**@BB**](https://bb.com.br) (Brazil/2021)
 - Full-stack Developer [**@Valor**](https://valorserver.com) (USA/2021)
 - Plain Python Developer **@Project SDR** (Brazil/2021) collab with [@Slendergo](https://github.com/Slendergo)
 - Plain Back-end Python Developer [**@UNB**](https://unb.br) (Brazil/2021)
