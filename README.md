@@ -34,7 +34,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 - Full-stack Developer [**@UT Realms**](https://utrealmsreborn.github.io) project (USA/2019)
 - Backend .NET Developer [**@loe-core game engine**](https://github.com/Devwarlt/loe-core) (open source, but discontinued) project (USA/2018)
 - Indie Game Developer [**@LoESoft Games**](https://github.com/LoESoft-Games) (USA/2016-18)
-- Junior Developer [**@PR**](https://www.gov.br/planalto/pt-br) (Brazil/2015)
+- Junior Php Developer [**@PR**](https://www.gov.br/planalto/pt-br) (Brazil/2015)
 
 ## IT Certifications
 - Scrum Foundations Professional (USA/2020)
