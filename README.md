@@ -19,13 +19,14 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 ### Current
 - Plain Python Developer [**@LGPDTrust**](https://lgpdtrust.com.br) (Brazil/2021)
 - Junior Solution Consultant [**@BB**](https://bb.com.br) (Brazil/2021)
-- Full-stack Developer [**@Valor Games**](https://github.com/Valor-Games) (USA/2021)
+- Software Engineer [**@Valor Games**](https://github.com/Valor-Games) (USA/2021)
 - Plain Python Developer **@Project SDR** (Brazil/2021) collab with [@Slendergo](https://github.com/Slendergo)
 - Plain Python Developer [**@UnB**](https://unb.br) (Brazil/2021)
 - Academic Researcher [**@UnB**](https://unb.br) (Brazil/2021)
 
 ### Previous
-- Academic Researcher [**@UnB**](https://unb.br) and [**UniProjeção**](https://projecao.br) (Brazil/2020)
+- Full-stack Developer [**@Valor Games**](https://github.com/Valor-Games) (USA/2021)
+- Student Researcher [**@UnB**](https://unb.br) and [**UniProjeção**](https://projecao.br) (Brazil/2020)
 - Junior Test Engineer [**@ABIN**](https://www.gov.br/abin/pt-br) (Brazil/2020)
 - Lead .NET Developer **@Imóvel Capital** startup (Brazil/2020)
 - Senior .NET Developer [**@Arcadia Game Studio**](https://www.youtube.com/channel/UCCzT6_EUKAAksAYjc142kLg) (Denmark/2020)
