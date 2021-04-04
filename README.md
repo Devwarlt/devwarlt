@@ -17,6 +17,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 ## IT Jobs & Project Collabs
 
 ### Current
+- Plain Python Developer [**@LGPDTrust**](https://lgpdtrust.com.br) (Brazil/2021)
 - Junior Solution Consultant [**@BB**](https://bb.com.br) (Brazil/2021)
 - Full-stack Developer [**@Valor Games**](https://github.com/Valor-Games) (USA/2021)
 - Plain Python Developer **@Project SDR** (Brazil/2021) collab with [@Slendergo](https://github.com/Slendergo)
@@ -37,6 +38,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 - Junior Php Developer [**@PR**](https://www.gov.br/planalto/pt-br) (Brazil/2015)
 
 ## IT Certifications
+- PostgreSQL Tuning (Brazil/2020)
 - Scrum Foundations Professional (USA/2020)
 - Kanban Foundations Professional (USA/2020)
 - CyberSec Foundations Professional (USA/2020)
