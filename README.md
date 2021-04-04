@@ -38,7 +38,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 - Junior Php Developer [**@PR**](https://www.gov.br/planalto/pt-br) (Brazil/2015)
 
 ## IT Certifications
-- PostgreSQL Tuning (Brazil/2020)
+- PostgreSQL Database Tuning (Brazil/2020)
 - Scrum Foundations Professional (USA/2020)
 - Kanban Foundations Professional (USA/2020)
 - CyberSec Foundations Professional (USA/2020)
