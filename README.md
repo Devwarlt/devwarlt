@@ -28,7 +28,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 - Junior Test Engineer [**@ABIN**](https://www.gov.br/abin/pt-br) (Brazil/2020)
 - Lead .NET Developer **@Imóvel Capital** startup (Brazil/2020)
 - Senior .NET Developer [**@Arcadia Game Studio**](https://www.youtube.com/channel/UCCzT6_EUKAAksAYjc142kLg) (Denmark/2020)
-- Plain Lua Developer [**@XLE-Love2D ECS framework**](https://github.com/bawdeveloppement/love2d-ecs) (discontinued) project (FR/2020)
+- Plain Lua Developer [**@XLE-Love2D ECS framework**](https://github.com/bawdeveloppement/love2d-ecs) (discontinued) project (FR/2020) collab with [@Shabaw](https://github.com/bawdeveloppement)
 - Senior .NET/Flex Developer [**@TK Games**](https://github.com/TK-Games) (UK/2020)
 - Full-stack Developer [**@Shot's Realm**](https://www.shotsrealm.com) project (USA/2019)
 - Full-stack Developer [**@UT Realms**](https://utrealmsreborn.github.io) project (USA/2019)
