@@ -19,7 +19,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 ### Current
 - Plain Python Developer [**@LGPDTrust**](https://lgpdtrust.com.br) (Brazil/2021)
 - Junior Solution Consultant [**@BB**](https://bb.com.br) (Brazil/2021)
-- Software Engineer [**@Valor Games**](https://github.com/Valor-Games) (USA/2021)
+- Software Engineer [**@Valor Inc.**](https://github.com/Valor-Inc) (USA/2021)
 - Plain Python Developer **@Project SDR** (Brazil/2021) collab with [@Slendergo](https://github.com/Slendergo)
 - Plain Python Developer [**@UnB**](https://unb.br) (Brazil/2021)
 - Academic Researcher [**@UnB**](https://unb.br) (Brazil/2021)
