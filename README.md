@@ -51,7 +51,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 
 [main]: https://github.com/devwarlt
 [linkedin]: https://www.linkedin.com/in/n%C3%A1dio-dib-ab2996183/
-[gmail]: mailto:devwarlt@gmail.com
+[gmail]: mailto:nadio.engsoft@gmail.com
 [academic]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2437838Y7&tipo=completo&idiomaExibicao=1
 
 [discord-badge]: https://img.shields.io/badge/Devwarlt%238483-black?logo=discord&style=for-the-badge
