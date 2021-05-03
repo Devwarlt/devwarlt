@@ -55,6 +55,6 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 [academic]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2437838Y7&tipo=completo&idiomaExibicao=1
 
 [discord-badge]: https://img.shields.io/badge/Devwarlt%238483-black?logo=discord&style=for-the-badge
-[linkedin-badge]: https://img.shields.io/badge/N%C3%A1dio%20Dib-purple?logo=linkedin&style=for-the-badge
+[linkedin-badge]: https://img.shields.io/badge/N%C3%A1dio%20Pontes-purple?logo=linkedin&style=for-the-badge
 [gmail-badge]: https://img.shields.io/badge/Gmail-black?logo=gmail&style=for-the-badge
 [academic-badge]: https://img.shields.io/badge/Academic%20Resume-black?logo=read-the-docs&style=for-the-badge
