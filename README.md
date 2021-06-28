@@ -22,9 +22,9 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 
 ### Current
 - Junior Automation Engineer [**@BB**](https://bb.com.br) (Brazil/2021)
-- Academic Researcher [**@UnB**](https://unb.br) (Brazil/2021)
 
 ### Previous
+- Academic Researcher [**@UnB**](https://unb.br) (Brazil/2021)
 - Digital Solution Consultant I [**@BB**](https://bb.com.br) (Brazil/2021)
 - Cybersecurity Specialist [**@LGPDTrust**](https://lgpdtrust.com.br) (Brazil/2021)
 - Software Engineer [**@Valor Inc.**](https://github.com/Valor-Inc) (USA/2021)
