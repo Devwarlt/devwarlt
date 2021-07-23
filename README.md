@@ -52,7 +52,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 - CyberSec (OAS): Antiterrorism & PenTest Essentials (USA/2019)
 
 [main]: https://github.com/devwarlt
-[linkedin]: https://www.linkedin.com/in/n%C3%A1dio-dib-ab2996183/
+[linkedin]: https://www.linkedin.com/in/devwarlt/
 [gmail]: mailto:nadio.engsoft@gmail.com
 [academic]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2437838Y7&tipo=completo&idiomaExibicao=1
 
