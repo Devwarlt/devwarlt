@@ -42,6 +42,9 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 - Junior Php Developer [**@PR**](https://www.gov.br/planalto/pt-br) (Brazil/2015)
 
 ## IT Certifications
+- Advanced Python Techniques (Brazil/2021)
+- Python Scripting for DevOps CI Automation (USA/2021)
+- Code Refactoring Best Practices (Ukraine/2021)
 - PostgreSQL Database Tuning (Brazil/2020)
 - Scrum Foundations Professional (USA/2020)
 - Kanban Foundations Professional (USA/2020)
