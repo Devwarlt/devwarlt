@@ -19,6 +19,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 ### Current
 - Junior DevOps Engineer [**@BB**](https://bb.com.br) (Brazil/2021)
 - Digital Solution Consultant I [**@Capgemini**](https://https://www.capgemini.com) (Brazil/2021)
+- Plain Back-end Developer [**@ABIN**](https://www.gov.br/abin/pt-br) (Brazil/2021)
 
 ### Previous
 - Junior Back-end Developer [**@BB**](https://bb.com.br) (Brazil/2021)
