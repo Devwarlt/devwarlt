@@ -55,6 +55,14 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 - CyberSec (CISCO): Introduction & Essentials (Brazil/2020)
 - CyberSec (OAS): Antiterrorism & PenTest Essentials (USA/2019)
 
+---
+
+## Games
+
+**Realm of the Mad God:**
+
+[![rotmg-signature](https://www.realmeye.com/signature-of/Devwarlt)](https://www.realmofthemadgod.com)
+
 [main]: https://github.com/devwarlt
 [linkedin]: https://www.linkedin.com/in/devwarlt/
 [gmail]: mailto:nadio.engsoft@gmail.com
