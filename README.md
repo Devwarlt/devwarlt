@@ -61,7 +61,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 
 **Realm of the Mad God:**
 
-[![rotmg-signature](https://www.realmeye.com/signature-of/Deveras)](https://www.realmeye.com/player/Deveras)
+[![rotmg-signature](https://www.realmeye.com/signature-of/Deveras)](https://www.realmeye.com/player/Durin)
 
 [main]: https://github.com/devwarlt
 [linkedin]: https://www.linkedin.com/in/devwarlt/
