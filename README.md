@@ -17,11 +17,12 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 ## IT Jobs & Project Collabs
 
 ### Current
+- Mid Data Analyst [**@Santander**](https://www.santander.com.br) (Brazil/2022)
+
+### Previous
 - Junior DevOps Engineer [**@BB**](https://bb.com.br) (Brazil/2021)
 - Digital Solution Consultant [**@Capgemini**](https://https://www.capgemini.com) (Brazil/2021)
 - Mid Backend Developer [**@PR**](https://www.gov.br/planalto/pt-br) (Brazil/2021)
-
-### Previous
 - Junior Backend Developer [**@BB**](https://bb.com.br) (Brazil/2021)
 - Academic Researcher [**@UnB**](https://unb.br) (Brazil/2021)
 - Cybersecurity Specialist [**@LGPDTrust**](https://lgpdtrust.com.br) (Brazil/2021)
