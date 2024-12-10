@@ -67,7 +67,7 @@ I've been inspired and fascinated to learn how to develop software since 2015. I
 [![rotmg-signature](https://www.realmeye.com/signature-of/Durin)](https://www.realmeye.com/player/Durin)-->
 
 [main]: https://github.com/devwarlt
-[linkedin]: https://www.linkedin.com/in/devwarlt/
+[linkedin]: https://www.linkedin.com/in/nadiodib/
 [gmail]: mailto:nadio.engsoft@gmail.com
 [academic]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2437838Y7&tipo=completo&idiomaExibicao=1
 
