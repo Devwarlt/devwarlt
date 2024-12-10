@@ -20,8 +20,7 @@
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://www.twitch.tv/official_durin/about"><img src="https://img.shields.io/twitch/status/official_durin?style=for-the-badge&logo=twitch&logoColor=white&color=9146FF"/></a>
   <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@official_durin"><img src="https://img.shields.io/youtube/channel/views/UC5wjSMiNwMb1OOxK4JbFGUQ?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000"/></a>
-</p>
-<p align="center">
+  <br/>
   <a href="https://github.com/Devwarlt"><img src="https://github.com/user-attachments/assets/364598f5-0386-4e59-af75-ab3d97eff258"/></a>
 </p>
 
