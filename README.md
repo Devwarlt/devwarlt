@@ -7,7 +7,7 @@
 [cv-link]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2437838Y7&tipo=completo&idiomaExibicao=1
 
 <p align="justify">
-  I've been inspired and fascinated to learn how to develop software since 2015. I learned from a hard way indeed, but that's how I got forged over time to mastering my skills. Struggling to learn new stuffs took me to another level and I'm so grateful to experience it. Since then, my curiosity pushed me to different scenarios moving forward and that what took me out of my comfort zone so far... Therefore, when I noticed software development was a thing, it motivated me to move towards professional level.
+  I've been inspired and fascinated to learn how to develop software since 2015. I learned from a hard way indeed, but that's how I got forged over time to mastering my skills. Struggling to learn new stuff took me to another level and I'm so grateful to experience it. Since then, my curiosity pushed me to different scenarios moving forward and that is what took me out of my comfort zone so far... Therefore, when I noticed software development was a thing, it motivated me to move towards professional level.
 </p>
 
 > So, this is my secret that keeps pushing me every day :smirk:
