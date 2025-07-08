@@ -26,12 +26,6 @@
   </a>
 </p>
 
-### Favourite MMO Games
-#### `MAIN` **Realm of the Mad God**
-<p align="left">
-  <a target="_blank" rel="noopener noreferrer" href="https://www.realmeye.com/player/Durin"><img width="640px" src="https://www.realmeye.com/signature-of/Durin"/></a>
-</p>
-
 ## Software Development
 ### My GitHub overall stats
 <p align="left" width="100%">
