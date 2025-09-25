@@ -54,7 +54,7 @@ My skill set includes software design, data monitoring and analysis using framew
 | ![w] | [**@The Eye**](https://github.com/Devwarlt/the-eye-resources) | Software Engineer | World | 2024 - 2025 | `Games` |
 | ![f] | [**@IBAMA**](https://www.gov.br/ibama/pt-br) | Junior DevOps Engineer | Brazil | 2024 - 2025 | `Government` |
 | ![f] | [**@Santander**](https://www.santander.com.br) | Mid Data Engineer | Brazil | 2022 - 2023 | `Finance` |
-| ![f] | [**@BB**](https://bb.com.br) | Junior Backend Developer → Junior DevOps Engineer | Brazil | 2021 - 2022 | `Finance` |
+| ![f] | [**@BB**](https://bb.com.br) | Junior Back-End Developer → Junior DevOps Engineer | Brazil | 2021 - 2022 | `Finance` |
 | ![f] | [**@Capgemini**](https://https://www.capgemini.com) | Digital Solution Consultant I | Brazil | 2021 - 2022 | `IT` |
 | ![f] | [**@PR**](https://www.gov.br/planalto/pt-br) | Junior Test Engineer → Mid Back-End Developer | Brazil | 2020 - 2022 | `Government` |
 | ![f] | [**@UnB**](https://unb.br) | Student Researcher → Academic Researcher | Brazil | 2020 - 2022 | `Education` |
