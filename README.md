@@ -48,10 +48,10 @@ My skill set includes software design, data monitoring and analysis using framew
 
 | **Status**  | **Company/Project** | **Role** | **Location** | **Acquisition** | **Field** |
 | ----------- | --------------- | -------- | ------------ | --------------- | --------- |
-| ![p] | [**@LoESoft Games**](https://github.com/LoESoft-Games) | Founder & CEO | World | 2016 - now | `Games` |
-| ![p] | [**pstk-core**](https://github.com/Devwarlt/pstk-core) | Software Engineer | World | 2020 - now | `Games` |
-| ![f] | **@RotMGStats Team** | Software Architect | World | 2024 - 2025 | `Games` |
-| ![w] | [**@The Eye**](https://github.com/Devwarlt/the-eye-resources) | Software Engineer | World | 2024 - 2025 | `Games` |
+| ![p] | [**@LoESoft Games**](https://github.com/LoESoft-Games) | Founder & CEO | Worldwide | 2016 - now | `Games` |
+| ![p] | [**pstk-core**](https://github.com/Devwarlt/pstk-core) | Software Engineer | Worldwide | 2020 - now | `Games` |
+| ![f] | **@RotMGStats Team** | Software Architect | Worldwide | 2024 - 2025 | `Games` |
+| ![w] | [**@The Eye**](https://github.com/Devwarlt/the-eye-resources) | Software Engineer | Worldwide | 2024 - 2025 | `Games` |
 | ![f] | [**@IBAMA**](https://www.gov.br/ibama/pt-br) | Junior DevOps Engineer | Brazil | 2024 - 2025 | `Government` |
 | ![f] | [**@Santander**](https://www.santander.com.br) | Mid Data Engineer | Brazil | 2022 - 2023 | `Finance` |
 | ![f] | [**@BB**](https://bb.com.br) | Junior Back-End Developer → Junior DevOps Engineer | Brazil | 2021 - 2022 | `Finance` |
@@ -60,7 +60,7 @@ My skill set includes software design, data monitoring and analysis using framew
 | ![f] | [**@UnB**](https://unb.br) | Student Researcher → Academic Researcher | Brazil | 2020 - 2022 | `Education` |
 | ![f] | [**@LGPDTrust**](https://lgpdtrust.com.br) | Python Developer → Cybersecurity Specialist | Brazil | 2021 | `Cybersecurity` |
 | ![f] | [**@Valor Inc.**](https://github.com/Valor-Inc) | Full Stack Developer → Software Engineer | USA | 2021 | `Games` |
-| ![w] | **@Project SDR** | Software Engineer | World | 2020 - 2021 | `Games` |
+| ![w] | **@Project SDR** | Software Engineer | Worldwide | 2020 - 2021 | `Games` |
 | ![f] | [**UniProjeção**](https://projecao.br) | Student Researcher | Brazil | 2020 - 2021 | `Education` |
 | ![w] | **@Imóvel Capital** | Software Architect | Brazil | 2020 | `Startup` |
 | ![w] | [**@XLE-Love2D ECS framework**](https://github.com/bawdeveloppement/love2d-ecs) | Software Engineer | France | 2019 - 2020 | `Games` |
@@ -68,7 +68,7 @@ My skill set includes software design, data monitoring and analysis using framew
 | ![f] | [**@TK Games**](https://github.com/TK-Games) | Software Engineer → Software Architect | United Kingdom | 2019 - 2020 | `Games` |
 | ![f] | [**@Shot's Realm**](https://www.shotsrealm.com) | Full Stack Developer | USA | 2019 | `Games` |
 | ![f] | [**@UT Realms**](https://utrealmsreborn.github.io) | Full Stack Developer | USA | 2019 | `Games` |
-| ![w] | [**@loe-core game engine**](https://github.com/Devwarlt/loe-core) | Software Engineer | World | 2017 - 2019 | `Games` |
+| ![w] | [**@loe-core game engine**](https://github.com/Devwarlt/loe-core) | Software Engineer | Worldwide | 2017 - 2019 | `Games` |
 | ![f] | [**@PR**](https://www.gov.br/planalto/pt-br) | Intern of Engineering | Brazil | 2015 | `Government` |
 
 </sub>
