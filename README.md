@@ -7,7 +7,7 @@
 [cv-link]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2437838Y7&tipo=completo&idiomaExibicao=1
 
 <p align="justify">
-  I am the CEO and Founder of LoESoft Games, an independent game development studio where I lead the strategic, creative, and technological vision of the company. My role spans from defining product direction to creating market opportunities and partnerships, always focused on innovation, quality, and global impact in the digital entertainment industry.
+  I am the Founder of LoESoft Games, an independent game development studio where I lead the strategic, creative, and technological vision of the company. My role spans from defining product direction to creating market opportunities and partnerships, always focused on innovation, quality, and global impact in the digital entertainment industry.
 
 Before founding LoESoft Games, I worked as a DevOps Analyst at Ibama and major financial institutions such as Banco do Brasil and Santander, gaining solid experience in process automation, continuous integration (CI/CD), and infrastructure management. During this journey, I promoted the DevOps culture, facilitated collaboration between development and operations teams, and contributed to improvements in security, process standardization, and operational efficiency.
 
