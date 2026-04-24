@@ -48,7 +48,7 @@ My skill set includes software design, data monitoring and analysis using framew
 
 | **Status**  | **Company/Project** | **Role** | **Location** | **Acquisition** | **Field** |
 | ----------- | --------------- | -------- | ------------ | --------------- | --------- |
-| ![p] | [**@LoESoft Games**](https://github.com/LoESoft-Games) | Founder & CEO | Worldwide | 2016 - now | `Games` |
+| ![p] | [**@LoESoft Games**](https://github.com/LoESoft-Games) | Founder & Game Producer | Worldwide | 2016 - now | `Games` |
 | ![p] | [**pstk-core**](https://github.com/Devwarlt/pstk-core) | Software Engineer | Worldwide | 2020 - now | `Games` |
 | ![f] | **@RotMGStats Team** | Software Architect | Worldwide | 2024 - 2025 | `Games` |
 | ![w] | [**@The Eye**](https://github.com/Devwarlt/the-eye-resources) | Software Engineer | Worldwide | 2024 - 2025 | `Games` |
