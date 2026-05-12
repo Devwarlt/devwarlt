@@ -1,4 +1,4 @@
-# About Me [![linkedin-badge]][linkedin-link] [![gmail-badge]][gmail-link] [![cv-badge]][cv-link]
+# About Me [![linkedin-badge]][linkedin-link] [![gmail-badge]][gmail-link] [![cv-badge]][cv-link] [![wakatime](https://wakatime.com/badge/user/75f77def-bd0d-4537-b89f-187b09ed2642.svg)](https://wakatime.com/@75f77def-bd0d-4537-b89f-187b09ed2642)
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-N%C3%A1dio%20Pontes-0A66C2?logo=linkedin&style=plastic
 [linkedin-link]: https://www.linkedin.com/in/nadiodib/
 [gmail-badge]: https://img.shields.io/badge/Gmail-nadio.engsoft@gmail.com-EA4335?logo=gmail&style=plastic
