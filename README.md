@@ -7,35 +7,17 @@
 [cv-link]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2437838Y7&tipo=completo&idiomaExibicao=1
 
 <p align="justify">
-  I am the Founder of LoESoft Games, an independent game development studio where I lead the strategic, creative, and technological vision of the company. My role spans from defining product direction to creating market opportunities and partnerships, always focused on innovation, quality, and global impact in the digital entertainment industry.
-
-Before founding LoESoft Games, I worked as a DevOps Analyst at Ibama and major financial institutions such as Banco do Brasil and Santander, gaining solid experience in process automation, continuous integration (CI/CD), and infrastructure management. During this journey, I promoted the DevOps culture, facilitated collaboration between development and operations teams, and contributed to improvements in security, process standardization, and operational efficiency.
-
-My skill set includes software design, data monitoring and analysis using frameworks like Pandas and SparkML, and the implementation of monitoring standards with tools such as Grafana. I am driven by challenges that foster technological innovation, digital solution building, and stronger communication across teams.
-</p>
-
-## Social Media & Network [![github-followers-badge]][github-followers-link] [![youtube-badge]][youtube-link] [![twitch-badge]][twitch-link]
-[twitch-badge]: https://img.shields.io/twitch/status/official_durin?style=social&logo=twitch&color=9146FF
-[twitch-link]: https://www.twitch.tv/official_durin/about
-[youtube-badge]: https://img.shields.io/youtube/channel/views/UC5wjSMiNwMb1OOxK4JbFGUQ?style=social&logo=youtube&color=FF0000
-[youtube-link]: https://www.youtube.com/@official_durin
-[github-followers-badge]: https://img.shields.io/github/followers/Devwarlt?logo=github&style=social
-[github-followers-link]: https://github.com/Devwarlt?tab=followers
-
-<p align="center" width="100%">
-  <a target="_blank" href="discord://-/users/220913972251983872">
-    <img width="320px" src="https://github.com/user-attachments/assets/364598f5-0386-4e59-af75-ab3d97eff258"/>
-  </a>
+  I am driven by challenges that foster technological innovation, digital solution building, and stronger communication across teams.
 </p>
 
 ## My GitHub overall stats
 <p align="center" width="100%">
   <a href="https://github.com/Devwarlt">
-    <img width="320px" height="248px" src="https://github-readme-stats.vercel.app/api?username=devwarlt&show_icons=true&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=270&line_height=21&hide_title=true&theme=dark"/>
+    <img width="320px" height="248px" src="https://github-stats-extended.vercel.app/api?username=devwarlt&show_icons=true&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=420&line_height=21&hide_title=true&theme=dark"/>
   </a>
   <br/>
   <a target="_blank" rel="noopener noreferrer" href="https://wakatime.com/@Devwarlt">
-    <img width="320px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Devwarlt&theme=dark&card_width=270&line_height=21&hide_title=true"/>
+    <img width="320px" src="https://github-stats-extended.vercel.app/api/wakatime?username=Devwarlt&theme=dark&card_width=420&line_height=21&hide_title=true"/>
   </a>
 </p>
 
