@@ -48,8 +48,10 @@ My skill set includes software design, data monitoring and analysis using framew
 
 | **Status**  | **Company/Project** | **Role** | **Location** | **Acquisition** | **Field** |
 | ----------- | --------------- | -------- | ------------ | --------------- | --------- |
-| ![p] | [**@LoESoft Games**](https://github.com/LoESoft-Games) | Founder & Game Producer | Worldwide | 2016 - now | `Games` |
-| ![p] | [**pstk-core**](https://github.com/Devwarlt/pstk-core) | Software Engineer | Worldwide | 2020 - now | `Games` |
+| ![p] | [**@Fundepes**](https://www.fundepes.br) | Data Protection Officer | Brazil | 2026 - now | `Cybersecurity` |
+| ![p] | [**@LexDesk-Ltd**](https://github.com/LexDesk-Ltd) | Software Engineer | United Kingdom | 2026 - now | `Finance` |
+| ![w] | [**@LoESoft Games**](https://github.com/LoESoft-Games) | Founder & Game Producer | Worldwide | 2016 - 2026 | `Games` |
+| ![p] | [**pstk-core**](https://github.com/Devwarlt/pstk-core) | Software Engineer | Worldwide | 2020 - 2026 | `Games` |
 | ![f] | **@RotMGStats Team** | Software Architect | Worldwide | 2024 - 2025 | `Games` |
 | ![w] | [**@The Eye**](https://github.com/Devwarlt/the-eye-resources) | Software Engineer | Worldwide | 2024 - 2025 | `Games` |
 | ![f] | [**@IBAMA**](https://www.gov.br/ibama/pt-br) | Junior DevOps Engineer | Brazil | 2024 - 2025 | `Government` |
